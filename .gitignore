@@ -21,3 +21,6 @@ _testmain.go
 
 *.exe
 *.test
+
+#Ignore linux32 build
+MyDanceMoves-BackEnd

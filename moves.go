@@ -1,4 +1,3 @@
-// moves
 package main
 
 import (
